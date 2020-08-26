@@ -3,7 +3,7 @@
 因为要修改经纬度，所有只能添加本地js文件
 */
 var caiyun_api = "fpj5k37EoWtfgZVp";  //彩云天气API
-var tencent_api = "EJOBZ-HCGCX-34V4P-TKXDW-7OHHV-5GF4I";  //腾讯地图API
+var tencent_api = "P4QBZ-SXCCP-3SLDA-LQXOP-A2WB7-J4B7N";  //腾讯地图API
 var location_latitude = "34.242765";  //纬度
 var location_longitude = "109.001826";  //经度
 
