@@ -1,6 +1,6 @@
 /*忘记从那位大佬那复制的，🙏，稍微做了些改动，如果有侵权，请联系我删除
 只需要在经纬度填上自己的
-为了修改经纬度，只能添加本地js文件
+因为要修改经纬度，所有只能添加本地js文件
 */
 var caiyun_api = "fpj5k37EoWtfgZVp";  //彩云天气API
 var tencent_api = "EJOBZ-HCGCX-34V4P-TKXDW-7OHHV-5GF4I";  //腾讯地图API
