@@ -168,11 +168,10 @@ function realtimeWeather() {
       realtime.air_quality.description.chn
     }`,
     `🔱 ${keypoint}
-🌡 体感${realtime.life_index.comfort.desc} ${
+🌡 体感 ${realtime.life_index.comfort.desc} ${
       realtime.apparent_temperature
-    } ℃  💧 湿度 ${(realtime.humidity * 100).toFixed(0)}%
-
-💨 ${mapWind(
+    } ℃  💧 湿度 ${(realtime.humidity * 100).toFixed(0)} %%
+💨 风力 ${mapWind(
       realtime.wind.speed,
       realtime.wind.direction
     )}🌞 紫外线 ${realtime.life_index.ultraviolet.desc}
