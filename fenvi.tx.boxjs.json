@@ -1,0 +1,141 @@
+{
+  "id": "sunert.app.sub",
+  "name": "Sunert 签到应用订阅",
+  "author": "@Sunert",
+  "icon": "https://avatars2.githubusercontent.com/u/47924389?s=460&u=5152f048a9e8aaa45102763a578172407c40fcc8&v=4",
+  "repo": "https://gitee.com/Sunert/Scripts/tree/master",
+  "apps": [
+    {
+      "id": "txnews",
+      "name": "腾讯新闻",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "author": "@sunert",
+      "settings": [
+        {
+          "id": "notifynum",
+          "name": "通知频率",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认50 (点击以展开说明)",
+          "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
+        },
+        {
+          "id": "delay",
+          "name": "延迟时间(毫秒)",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认200 (点击以展开说明)",
+          "desc": "接口延迟时间"
+        }          
+      ],
+       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/txnews.js",
+       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png", "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"],
+       "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/txnews.js"
+    },{
+      "id": "txnews1",
+      "name": "腾讯新闻1",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "author": "@sunert",
+      "settings": [
+        {
+          "id": "notifynum",
+          "name": "通知频率",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认50 (点击以展开说明)",
+          "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
+        },
+        {
+          "id": "delay",
+          "name": "延迟时间(毫秒)",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认200 (点击以展开说明)",
+          "desc": "接口延迟时间"
+        }          
+      ],
+       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/txnews.js",
+       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png", "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"],
+       "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/txnews.js"
+    },{
+      "id": "txnews2",
+      "name": "腾讯新闻2",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "author": "@sunert",
+      "settings": [
+        {
+          "id": "notifynum",
+          "name": "通知频率",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认50 (点击以展开说明)",
+          "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
+        },
+        {
+          "id": "delay",
+          "name": "延迟时间(毫秒)",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认200 (点击以展开说明)",
+          "desc": "接口延迟时间"
+        }          
+      ],
+       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/txnews.js",
+       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png", "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"],
+       "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/txnews.js"
+    },{
+      "id": "txnews3",
+      "name": "腾讯新闻3",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "author": "@sunert",
+      "settings": [
+        {
+          "id": "notifynum",
+          "name": "通知频率",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认50 (点击以展开说明)",
+          "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
+        },
+        {
+          "id": "delay",
+          "name": "延迟时间(毫秒)",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认200 (点击以展开说明)",
+          "desc": "接口延迟时间"
+        }          
+      ],
+       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/txnews.js",
+       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png", "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"],
+       "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/txnews.js"
+    },{
+      "id": "txnews4",
+      "name": "腾讯新闻4",
+      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "author": "@sunert",
+      "settings": [
+        {
+          "id": "notifynum",
+          "name": "通知频率",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认50 (点击以展开说明)",
+          "desc": "阅读篇数间隔通知开为1，常关为0(默认50篇)"
+        },
+        {
+          "id": "delay",
+          "name": "延迟时间(毫秒)",
+          "val": "",
+          "type": "number",
+          "placeholder": "默认200 (点击以展开说明)",
+          "desc": "接口延迟时间"
+        }          
+      ],
+       "repo": "https://gitee.com/Sunert/Scripts/blob/master/Task/txnews.js",
+       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/txnews.png", "https://raw.githubusercontent.com/Orz-3/task/master/txnews.png"],
+       "script": "https://gitee.com/Sunert/Scripts/raw/master/Task/txnews.js"
+    }
+    
+  ]
+}
