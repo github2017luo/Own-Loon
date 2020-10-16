@@ -34,7 +34,7 @@
     },{
       "id": "txnews1",
       "name": "腾讯新闻1",
-      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "keys": ["sy_signurl_txnews1", "sy_cookie_txnews1","video_txnews1"],
       "author": "@sunert",
       "settings": [
         {
@@ -60,7 +60,7 @@
     },{
       "id": "txnews2",
       "name": "腾讯新闻2",
-      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "keys": ["sy_signurl_txnews2", "sy_cookie_txnews2","video_txnews2"],
       "author": "@sunert",
       "settings": [
         {
@@ -86,7 +86,7 @@
     },{
       "id": "txnews3",
       "name": "腾讯新闻3",
-      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "keys": ["sy_signurl_txnews3", "sy_cookie_txnews3","video_txnews3"],
       "author": "@sunert",
       "settings": [
         {
@@ -112,7 +112,7 @@
     },{
       "id": "txnews4",
       "name": "腾讯新闻4",
-      "keys": ["sy_signurl_txnews", "sy_cookie_txnews","video_txnews"],
+      "keys": ["sy_signurl_txnews4", "sy_cookie_txnews4","video_txnews4"],
       "author": "@sunert",
       "settings": [
         {
