@@ -4,14 +4,14 @@ body = JSON.parse(body)
 body['data']['tab'] = [
     {
         "id": 39,
-        "name": "直播",
+        "name": "恭喜",
         "uri": "bilibili://live/home",
         "tab_id": "直播tab",
         "pos": 1
     },
     {
         "id": 40,
-        "name": "推荐",
+        "name": "发财",
         "uri": "bilibili://pegasus/promo",
         "tab_id": "推荐tab",
         "pos": 2,
@@ -19,10 +19,17 @@ body['data']['tab'] = [
     },
     {
         "id": 41,
-        "name": "追番",
+        "name": "红包",
+        "uri": "bilibili://pegasus/hottopic",
+        "tab_id": "热门tab",
+        "pos": 3
+    },
+    {
+        "id": 42,
+        "name": "拿来",
         "uri": "bilibili://pgc/home",
         "tab_id": "追番Tab",
-        "pos": 3
+        "pos": 4
     }
 ]
 
