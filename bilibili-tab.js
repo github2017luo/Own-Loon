@@ -55,6 +55,7 @@ body['data']['bottom'] = [
         "uri": "bilibili://main/home/",
         "tab_id": "首页Bottom",
         "pos": 2
+        "default_selected": 1
     },
     {
         "id": 179,
