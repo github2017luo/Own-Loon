@@ -42,14 +42,6 @@ if ($.isNode()) {
   cookiesArr.push($.getdata('CookieJD2'));
 }
 const starID = [
-  'bolangwutiaoren',
-  'oulebyangzi',
-  'meiditongliya',
-  'chuangweimaobuyi',
-  'quechaozhuyilong',
-  'haierchenxiao',
-  'feilipulixian',
-  'feilipurenjialun',
   'feilipuwangziyi',
   'changhongsongyi',
   'jiuyangdenglun',
@@ -59,6 +51,14 @@ const starID = [
   'lgyangzishan',
   'laobansongweilong',
   'haiermaoxiaotong',
+  'bolangwutiaoren',
+  'oulebyangzi',
+  'meiditongliya',
+  'chuangweimaobuyi',
+  'quechaozhuyilong',
+  'haierchenxiao',
+  'feilipulixian',
+  'feilipurenjialun',
 ];
 const shareID = [];
 const JD_API_HOST = 'https://urvsaggpt.m.jd.com/guardianstar';
