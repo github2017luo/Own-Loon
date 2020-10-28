@@ -221,7 +221,7 @@ function realtimeWeather() {
   }
 
   $.notify(
-    `[彩云天气]  ${address.city} ${address.district} ${address.street}`,
+    `[天气预报]  ${address.city} ${address.district} ${address.street}`,
     `${mapSkycon(realtime.skycon)[0]} ${realtime.temperature} ℃  🌤 空气质量 ${
       realtime.air_quality.description.chn
     }`,
