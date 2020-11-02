@@ -1,0 +1,7 @@
+# 用药助手 插件
+
+[Script]
+http-response ^https?:\/\/(i|newdrugs)\.dxy\.cn\/(snsapi\/username\/|app\/user\/(pro\/stat\?|init\?timestamp=)) requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/yyzs.js, tag=用药助手
+
+[MITM]
+hostname = newdrugs.dxy.cn
